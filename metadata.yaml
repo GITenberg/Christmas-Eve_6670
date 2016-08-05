@@ -1,0 +1,30 @@
+_repo: Christmas-Eve_6670
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Browning, Robert
+    birthdate: 1812
+    deathdate: 1889
+    gutenberg_agent_id: '146'
+    url: http://www.gutenberg.org/2009/agents/146
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Browning
+description: This is an electronic edition of the complete book complemented by author
+  biography. This book features a table of contents linked to every chapter. The book
+  was designed for optimal navigation on the Kindle, PDA, Smartphone, and other electronic
+  readers. It is formatted to display on all electronic devices including the Kindle,
+  Smartphones and other Mobile Devices with a small display.
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Christmas -- Poetry'
+- GITenberg
+title: Christmas Eve
+url: http://www.gutenberg.org/ebooks/6670
